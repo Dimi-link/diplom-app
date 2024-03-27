@@ -1,8 +1,0 @@
-image_frontend:
-  repository: "Dimi-link/diplom-app"
-  tag: ""
-
-image:
-  tag: "latest"
-
-namespace: ""
